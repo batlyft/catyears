@@ -12,6 +12,7 @@
 		00D2488D1BA8D24C00B4F4AE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00D2488B1BA8D24C00B4F4AE /* Main.storyboard */; };
 		00D2488F1BA8D24C00B4F4AE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00D2488E1BA8D24C00B4F4AE /* Assets.xcassets */; };
 		00D248921BA8D24C00B4F4AE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00D248901BA8D24C00B4F4AE /* LaunchScreen.storyboard */; };
+		00D2489A1BA8DC4000B4F4AE /* evilcat.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 00D248991BA8DC4000B4F4AE /* evilcat.jpeg */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		00D2488E1BA8D24C00B4F4AE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		00D248911BA8D24C00B4F4AE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		00D248931BA8D24C00B4F4AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		00D248991BA8DC4000B4F4AE /* evilcat.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = evilcat.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				00D248871BA8D24C00B4F4AE /* AppDelegate.swift */,
 				00D248891BA8D24C00B4F4AE /* ViewController.swift */,
 				00D2488B1BA8D24C00B4F4AE /* Main.storyboard */,
+				00D248991BA8DC4000B4F4AE /* evilcat.jpeg */,
 				00D2488E1BA8D24C00B4F4AE /* Assets.xcassets */,
 				00D248901BA8D24C00B4F4AE /* LaunchScreen.storyboard */,
 				00D248931BA8D24C00B4F4AE /* Info.plist */,
@@ -121,6 +124,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00D2489A1BA8DC4000B4F4AE /* evilcat.jpeg in Resources */,
 				00D248921BA8D24C00B4F4AE /* LaunchScreen.storyboard in Resources */,
 				00D2488F1BA8D24C00B4F4AE /* Assets.xcassets in Resources */,
 				00D2488D1BA8D24C00B4F4AE /* Main.storyboard in Resources */,
